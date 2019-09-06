@@ -1,0 +1,29 @@
+
+input[type='file']{
+    display: none;
+}
+.agregar{
+    color: white;
+    height: 20px;
+    width: 148px;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    margin-bottom: 10px;
+    padding: 3px;
+    background-color: #1F618D;
+    justify-content: center;
+    align-items: center;
+    font-family: "Montserrat",sans-serif;
+    text-align: center;
+    font-size: 10px;
+}
+.agregar:hover{
+    background-color: #fff;
+    color: #1F618D;
+    border: 2px solid #1F618D;
+    height: 16px;
+    width: 144px;
+}
